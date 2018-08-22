@@ -1,0 +1,8 @@
+" Use the system pasteboard
+set pasteboard
+
+" Move between assistant editors
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+nnoremap <C-h> <C-w>h

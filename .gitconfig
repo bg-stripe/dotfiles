@@ -1,0 +1,14 @@
+[user]
+	name = Ben Guo
+	email = bg@stripe.com
+
+[alias]
+	lg = log --graph --decorate --oneline
+	lol = log --graph --decorate --oneline
+	lola = log --graph --decorate --oneline --all
+
+[push]
+	default = simple
+
+[core]
+	editor = /usr/bin/vim
