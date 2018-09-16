@@ -7,15 +7,14 @@
 - chflags nohidden ~/Library/
 
 ## Terminal
-- oh-my-zsh
-- brew install z
-- brew install carthage
-- gem install cocoapods
+- fish 
+- omf install clearance
+- omf install z
 
 ## apps
 - iTerm2
-- Spectacle - window manager
-- Screenotate - OCR screenshots
+- Spectacle
+- Screenotate
 - Atom
   - atom-notes (alt-cmd-l)
   - vim-mode-plus
