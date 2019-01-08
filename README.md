@@ -10,6 +10,9 @@
 - brew fish 
 - omf install clearance
 - omf install z
+- alias xc "open *.xcworkspace || open *.xcodeproj" | funcsave xc
+- alias gdf "git diff" | funcsave gdf
+- alias rmdd "rm -rf ~/Library/Developer/Xcode/DerivedData/*" | funcsave rmdd
 
 ## apps
 - iTerm2
