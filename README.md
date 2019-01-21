@@ -34,4 +34,5 @@
 - Android Studio
   - Disable code folding outline + all "Collapse by default" options
   - Input Mono condensed 14
+  - Appearance & Behavior > System Settings > Android SDK -> download API level 27
 - Sublime
