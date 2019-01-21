@@ -22,3 +22,7 @@
 - Atom
   - atom-notes (alt-cmd-l)
   - vim-mode-plus
+- Xcode
+  - XVim2 + .xvimrc
+- Android Studio
+  - Remap Cmd-Shift-O -> "Search Everywhere"
