@@ -32,6 +32,6 @@
   - XVim2 + .xvimrc
   - Input Mono Condensed 14
 - Android Studio
-  - Disable code folding outline
+  - Disable code folding outline + all "Collapse by default" options
   - Input Mono condensed 14
 - Sublime
