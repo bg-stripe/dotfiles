@@ -32,6 +32,6 @@
   - XVim2 + .xvimrc
   - Input Mono Condensed 14
 - Android Studio
-  - Remap Cmd-Shift-O -> "Search Everywhere"
+  - Disable code folding outline
   - Input Mono condensed 14
 - Sublime
