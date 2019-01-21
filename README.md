@@ -8,21 +8,30 @@
 - Settings -> Keyboard -> Key repeat
 
 ## shell
+- iTerm2
+  - Solarized
+  - Input Mono Modium 14
 - brew fish 
 - omf install clearance
 - omf install z
 - alias xc "open *.xcworkspace || open *.xcodeproj" | funcsave xc
 - alias gdf "git diff" | funcsave gdf
+- alias gup "git pull --rebase" | funcsave gup
+- alias gst "git status" | funcsave gst
 - alias rmdd "rm -rf ~/Library/Developer/Xcode/DerivedData/*" | funcsave rmdd
 
 ## apps
-- iTerm2
 - Spectacle
 - Screenotate
 - Atom
   - atom-notes (alt-cmd-l)
   - vim-mode-plus
+  - pretty-json
+  - solarized-light-ui
 - Xcode
   - XVim2 + .xvimrc
+  - Input Mono Condensed 14
 - Android Studio
   - Remap Cmd-Shift-O -> "Search Everywhere"
+  - Input Mono condensed 14
+- Sublime
