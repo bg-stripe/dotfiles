@@ -19,6 +19,7 @@
 - alias gup "git pull --rebase" | funcsave gup
 - alias gst "git status" | funcsave gst
 - alias rmdd "rm -rf ~/Library/Developer/Xcode/DerivedData/*" | funcsave rmdd
+- search for "Upgrading your Ruby version" -> "Setup with alternate shells"
 
 ## apps
 - Spectacle
