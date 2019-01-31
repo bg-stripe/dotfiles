@@ -20,6 +20,7 @@
 - alias gst "git status" | funcsave gst
 - alias rmdd "rm -rf ~/Library/Developer/Xcode/DerivedData/*" | funcsave rmdd
 - search for "Upgrading your Ruby version" -> "Setup with alternate shells"
+- `vim ~/.config/fish/config.fish`
 
 ## apps
 - Spectacle
