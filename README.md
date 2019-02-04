@@ -33,6 +33,7 @@
 - Xcode
   - XVim2 + .xvimrc
   - Input Mono Condensed 14
+  - Trim trailing whitespace -> "Include whitespace only lines"
 - Android Studio
   - Disable code folding outline + all "Collapse by default" options
   - Input Mono condensed 14
