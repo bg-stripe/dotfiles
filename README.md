@@ -3,7 +3,8 @@
 ## osx config
 - defaults write -g ApplePressAndHoldEnabled -bool false
 - defaults write com.apple.finder AppleShowAllFiles -bool true
-- defaults write com.apple.PowerChime ChimeOnAllHardware -bool false
+- defaults write com.apple.PowerChime ChimeOnNoHardware -bool true
+- killall PowerChime
 - chflags nohidden ~/Library/
 - Settings -> Keyboard -> Key repeat
 
