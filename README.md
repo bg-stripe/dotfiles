@@ -11,7 +11,7 @@
 ## shell
 - iTerm2
   - Solarized
-  - Input Mono Modium 14
+  - Input Mono Medium 14
 - brew fish 
 - install [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 - omf install clearance
