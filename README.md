@@ -13,6 +13,7 @@
   - Solarized
   - Input Mono Modium 14
 - brew fish 
+- install [oh my fish](https://github.com/oh-my-fish/oh-my-fish)
 - omf install clearance
 - omf install z
 - alias xc "open *.xcworkspace || open *.xcodeproj" | funcsave xc
