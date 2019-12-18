@@ -26,12 +26,6 @@
 
 ## apps
 - Spectacle
-- Screenotate
-- Atom
-  - atom-notes (alt-cmd-l)
-  - vim-mode-plus
-  - pretty-json
-  - solarized-light-ui
 - Xcode
   - XVim2 + .xvimrc
   - Input Mono Condensed 14
@@ -40,4 +34,11 @@
   - Disable code folding outline + all "Collapse by default" options
   - Input Mono condensed 14
   - Appearance & Behavior > System Settings > Android SDK -> download API level 27
-- Sublime
+- VSCode
+
+
+## VSCode
+```
+code --install-extension ms-vscode.Theme-TomorrowKit
+code --install-extension vscodevim.vim
+```
