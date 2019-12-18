@@ -1,0 +1,56 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "newUntitledFile",
+  "vim.normalModeKeyBindingsNonRecursive": [
+    {
+      "before": [
+        "<C-h>"
+      ],
+      "commands": [
+        "workbench.action.navigateLeft"
+      ]
+    },
+    {
+      "before": [
+        "<C-k>"
+      ],
+      "commands": [
+        "workbench.action.navigateUp"
+      ]
+    },
+    {
+      "before": [
+        "<C-j>"
+      ],
+      "commands": [
+        "workbench.action.navigateDown"
+      ]
+    },
+    {
+      "before": [
+        "<C-l>"
+      ],
+      "commands": [
+        "workbench.action.navigateRight"
+      ]
+    },
+  ],
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "breadcrumbs.enabled": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "workbench.colorTheme": "Tomorrow Night",
+  "workbench.activityBar.visible": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+}
