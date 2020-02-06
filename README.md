@@ -42,3 +42,7 @@
 code --install-extension ms-vscode.Theme-TomorrowKit
 code --install-extension vscodevim.vim
 ```
+
+other extensions:
+macros (geddski.macros)
+(combine commands with kb shortcuts)
